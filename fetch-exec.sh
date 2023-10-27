@@ -18,7 +18,6 @@ html="$(curl -X GET \
   --connect-timeout 120 \
   --max-time 30 \
   --max-redirs 10 \
-  --include \
   --insecure \
   --http1.1 \
   --silent \
