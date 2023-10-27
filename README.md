@@ -8,11 +8,11 @@
    
    ### LINUX
    ```sh
-   curl https://raw.githubusercontent.com/GrimalDev/RandomDevProjects/main/LinuxScripts/fetch-html.sh -o fetch-html.sh ; sudo cp fetch-html.sh /bin/fetch-html ; sudo rm fetch-html.sh ; sudo chmod +x /bin/fetch-html
+   curl https://raw.githubusercontent.com/GrimalDev/fetch-exec/main/fetch-exec.sh -o fetch-exec.sh ; sudo cp fetch-exec.sh /bin/fetch-exec ; sudo rm fetch-exec.sh ; sudo chmod +x /bin/fetch-exec
    ```
    ### MACOS
    ```sh
-    curl https://raw.githubusercontent.com/GrimalDev/RandomDevProjects/main/LinuxScripts/fetch-html.sh -o fetch-html.sh ; sudo cp fetch-html.sh /opt/homebrew/bin/fetch-html ; sudo rm fetch-html.sh ; sudo chmod +x /opt/homebrew/bin/fetch-html
+    curl https://raw.githubusercontent.com/GrimalDev/fetch-exec/main/fetch-exec.sh -o fetch-exec.sh ; sudo cp fetch-exec.sh /opt/homebrew/bin/fetch-exec ; sudo rm fetch-exec.sh ; sudo chmod +x /opt/homebrew/bin/fetch-exec
    ```
     
 **HOW TO**
