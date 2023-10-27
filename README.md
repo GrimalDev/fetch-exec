@@ -2,7 +2,7 @@
 
 ## fetch-exec.sh :
 
-  => A tool to scrap a html page.
+  => A tool to scrap a html page with basid.
   
    Install Command:
    
